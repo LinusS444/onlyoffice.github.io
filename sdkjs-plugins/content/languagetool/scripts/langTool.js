@@ -58,7 +58,7 @@ function checkInternetExplorer(){
 	var displayNoneClass = "display-none";
 	var blurClass        = "no_class";
     var elements         = null;
-    var serviceUrl       = "https://languagetool.org/api/v2/check";
+    var serviceUrl       = "https://write.net.sdug.eu/v2/check";
     var paste_done       = true;
     var canAddText       = true;
     var isLangChangedManually = false;
